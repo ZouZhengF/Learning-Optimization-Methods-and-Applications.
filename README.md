@@ -21,7 +21,7 @@
 - [数据集下载](链接)
 
 ## 🔧 快速开始
-```bash
+
 # 克隆本仓库
 git clone https://github.com/用户名/仓库名.git
 
