@@ -1,4 +1,4 @@
-# 《大语言模型》- 大模型技术中文权威指南
+# 《学习优化方法及应用》
 
 ![出版年份](https://img.shields.io/badge/出版-2026-blue)
 ![出版社](https://img.shields.io/badge/出版社-科学出版社-red)
